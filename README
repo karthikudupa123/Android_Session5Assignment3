@@ -1,0 +1,5 @@
+A class Employee is created with given properties and methods.
+Two subclasses PermanentEmployee and TemporaryEmployee is extended from the class Employee.
+Salary of the emloyee is calculated using the given formula.
+Balance amount of leaves is calculated.
+Leaves are granted only if requested leaves are less than or equal to maximum allowable leaves of each leave type.
